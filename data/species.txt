@@ -1,0 +1,345 @@
+afterbirth spirit
+alligator
+angel
+anima
+animal
+ant
+antelope
+ape
+apeman
+apparition
+attendant
+baboon
+baby
+badger
+bandit
+banshee
+basilisk
+beast
+beaver
+bee
+behemoth
+being
+benevolent
+berserker
+bigfoot
+bird
+bird-mammal
+bluebird
+bluecap
+boar
+bogeyman
+boy
+buffalo-hog
+bugbear
+bull
+bull-horse
+bunyip
+calf
+canine
+carrion-eater
+cat
+catfish
+centaur
+centipede
+changeling
+chaos spirit
+chicken-lizard
+chicken-serpent
+child
+chimera
+chunk of dead flesh
+clock
+cloth
+cloud spirit
+clurichaun
+cobbler
+construct
+corpse
+cow
+crab
+craftsman
+crane
+creature
+crocodile
+crow
+cyclops
+daemon
+dark elf
+death spirit
+deer
+deer-goat
+deity
+demigod
+demon
+demoness
+devil
+dire wolf
+djinn
+dog
+dog-bird
+dog-goat
+dog-human
+dog-monkey
+dolphin-human
+donkey
+doppelganger
+double
+dragon
+dwarf
+eagle
+eel
+elemental
+elephant
+elf
+elk
+entity
+fairy
+falcon
+falcon-lion
+fallen god
+familiar
+faun
+feline
+fire bird
+fire genie
+fish
+fish-human
+flame
+flycatcher
+forest spirit
+fox
+fox spirit
+fox-human
+frog
+gargoyle
+gatekeeper
+genie
+ghost
+ghost of a murdered or mistreated woman
+ghost of a person who has died suddenly of a violent or cruel death
+ghost of an unbaptised child
+ghost of someone not buried properly
+ghost of someone who drowned at sea
+ghost of the newly dead
+ghoul
+giant
+gigantes
+giraffe
+girl
+gnome
+goat
+goblin
+god
+goddess
+golem
+goose
+gorgon
+grave watcher
+gremlin
+greyhound
+griffin
+guardian
+hag
+half-human half-animal
+halfling
+hare
+harpy
+haunt
+hawk
+head
+hedgehog
+hellhound
+herbivore
+hippopotamus
+hobgoblin
+hominid
+hornbill
+horse
+horse-fish
+horse-walrus
+house spirit
+howler
+human
+human-cougar
+human-deer
+human-eagle
+human-elf
+human-goat
+human-horse
+human-lizard
+human-scorpion
+humanoid
+hunter
+hydra
+hyena
+imp
+incubus
+infant
+insect
+insect spirit
+jellyfish
+jester
+kelpie
+kettle
+king
+koala
+lamb
+lamia
+land animal
+lantern
+leopard
+leprechaun
+lion
+lioness
+lizard
+lynx
+magician
+maiden
+mammal
+man
+maniac
+mare
+mermaid
+merman
+mill spirit
+minotaur
+monarch
+monk
+monkey
+monster
+mountain spirit
+mule
+mummy
+murmur
+nereid
+night-demon
+nightmare
+nymph
+octopus
+offspring of a human and a succubus
+ogre
+oracle
+orc
+orca-wolf
+organism
+otter
+owl
+ox
+ox-human
+panther
+parasol
+peacock
+pegasus
+person
+phantom
+phoenix
+pillar
+pixie
+poltergeist
+premature baby
+priest
+primate
+prince
+princess
+protector
+psychopomp
+punisher
+python
+queen
+rabbit
+raccoon
+ram
+rat
+rat-bird
+reaper
+redcap
+reptile
+reptile-fish
+rhinoceros
+roc
+rock demon
+rooster
+salamander
+sandman
+satyr
+savage
+scorpion
+screen cloth
+sea serpent
+sea turtle
+sea-spirit
+seducer
+seductress
+seer
+semi-human
+serpent
+shade
+shaman
+shapeshifter
+sheep
+siren
+skeleton
+skin-walker
+sloth
+smith
+snake
+snake-parrot
+snotling
+sorcerer
+soul of the deceased
+specter
+sphinx
+spider
+spirit
+spirit of a warrior
+spirit of vengeance
+spiritis
+spook
+sprite
+squirrel
+stag
+storm bird
+succubus
+swallow
+swan
+swordsman
+sylph
+tendril
+thief
+tiger
+titan
+tree
+tree spirit
+tree sprite
+trickster
+troll
+turtle
+unicorn
+vampire
+vine
+vulture
+walrus
+warlock
+warrior
+water dragon
+water horse
+water serpent
+water spirit
+water-leaper
+well spirit
+were-jaguar
+werewolf
+whale
+wildcat
+wildcat-deer
+witch
+wizard
+wolf
+woman
+worm
+wraith
+wyvern
+yeti
+zebra
+zombie
